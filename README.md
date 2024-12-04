@@ -1,7 +1,7 @@
 # DeepFashion2 Dataset
 ![image](https://github.com/switchablenorms/DeepFashion2/blob/master/images/deepfashion2_bigbang.png)
 
-PUSH PUSH
+PLEASE PUSH
 DeepFashion2 is a comprehensive fashion dataset. It contains 491K diverse images of 13 popular clothing categories from both 
 commercial shopping stores and consumers. It totally has 801K clothing clothing items, where each item in an image is labeled 
 with scale, occlusion, zoom-in, viewpoint, category, style, bounding box, dense landmarks and per-pixel mask.There are also 873K Commercial-Consumer clothes pairs.\
